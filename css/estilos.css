@@ -1,6 +1,7 @@
 body 
 {
-    color: rgb(3, 3, 3);
+    background-color: #ddd;
+    color: black;
     text-align:center;
     font-family:"Arial";
     margin: 0;
