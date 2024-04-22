@@ -1,7 +1,7 @@
 body 
 {
     background-color: #ddd;
-    color:black;
+    color: black;
     text-align:center;
     font-family:"Arial";
     margin: 0;
@@ -50,4 +50,15 @@ body
 {
     background-color: white;
     padding: 1em;
+}
+
+#footer
+{
+  color: green;
+
+  padding: 0;
+  background-color: black;
+  font-weight: bold;
+  text-align: center;
+  border: 5px solid green
 }
