@@ -3,5 +3,6 @@
 > -fin
 
 creado por el increible platzi team 
+incluye ejemplos en windows
 
 ## xdddd
